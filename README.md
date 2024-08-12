@@ -25,7 +25,7 @@
 <img src="https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition/blob/main/images/sample_3.jpg">
 
 - Comparar a segunda imagem com a terceira imagem.
-<img src="https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition/blob/main/images/similaridade_2.png">
+<img src="https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition/blob/main/images/comparacao_2.png">
 
 - Analizar a resposta.
 <img src="https://github.com/V1ctor1aTorres/Facial_Analysis_with_Amazon_Rekognition/blob/main/images/similaridade_2.png"> 
